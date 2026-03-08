@@ -1,5 +1,7 @@
 # 📊 Excel for Data Analytics - Full Course
 
+My project demonstrating my Excel skills
+
 Data Nerds! This repo contains all the Excel files needed to follow along my free course: [Excel for Data Analytics](https://lukebarousse.com/excel)
 
 [![Excel for Data Analytics](0_Resources/Images/Excel_Data_Analytics_v2.png)](https://youtu.be/pCJ15nGFgVg)
