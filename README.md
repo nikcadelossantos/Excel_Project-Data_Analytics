@@ -3,7 +3,7 @@
 
 ## Salary Dashboard  
 This data jobs salary dashboard was created to help job seekers investigate salaries for their desired jobs and ensure they are being adequately compensated.  
-[Checkout_my_work_here](https://github.com/nikcadelossantos/Excel_Project-Data_Analytics/blob/main/Project_1-Dashboard-20260211T113027Z-1-001/Project_1-Dashboard/1_Salary_Dashboard.xlsx)
+[Checkout_my_work_here](https://github.com/nikcadelossantos/Excel_Project-Data_Analytics/tree/main/Project_1-Dashboard-20260211T113027Z-1-001/Project_1-Dashboard)
 
 ![1_Salary_Dashboard_Final_Dashboard](https://github.com/user-attachments/assets/feb47a6f-76a1-460e-b0c4-bcb79a092f06)
 
