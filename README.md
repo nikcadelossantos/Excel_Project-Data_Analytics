@@ -1,5 +1,32 @@
 # 📊 Excel for Data Analytics - Full Course
 
+see https://markdownguide.offshoot.io/cheat-sheet/
+
+# Heading1
+## Heading2
+### Heading3
+**bold text**  
+*italicized text*
+
+1. First item
+2. Second item
+3. Third item
+
+- First item
+- Second item
+- Third item
+
+`code`
+
+```
+multiple
+code
+line
+```
+[title](https://www.google.com)
+![alt text](image.jpg)
+
+
 My project demonstrating my Excel skills
 
 Data Nerds! This repo contains all the Excel files needed to follow along my free course: [Excel for Data Analytics](https://lukebarousse.com/excel)
